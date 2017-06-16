@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="paie1803_storeInventory:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="paie1803_storeInventory-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="paie1803_storeInventory:war exploded" />
+    </root>
+  </artifact>
+</component>
